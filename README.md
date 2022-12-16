@@ -1,3 +1,13 @@
+# Lets Start How to Make Container in Docker
+
+1.)Start A server(Linux/Windows)
+2.)Create  a folder of you project
+3.)Create a React APP inside project folder (npx create-react-app)
+4.)Then Create a Dockerfile and put the content which is in present in file(Modify as per reuire)
+5.)Then Build your Docker file and run after build.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
